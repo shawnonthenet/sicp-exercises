@@ -1,0 +1,1 @@
+The new if uses applicative-order evaluation.  This means that each part of it is evaluated first so we'll get in a stuck at the recursive else statement.
