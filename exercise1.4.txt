@@ -1,0 +1,1 @@
+The if statement adds a and b if b is positive.  If it's negative it subtracts b from a which ends up being the same as adding the absolute value of b.
